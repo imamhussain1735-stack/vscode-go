@@ -1,0 +1,5 @@
+http.handlefunc("/getlocation",func(w httpresponsewrite,r*http.request){
+	ref:=client.NewRef("user/immu/location")
+	var location map[string]
+
+})
